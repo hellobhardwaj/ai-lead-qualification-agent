@@ -93,7 +93,7 @@ Built an automated AI voice agent that instantly calls new leads, asks qualifyin
 
 ## 📸 Workflow
 
-AI agent workflow handling lead capture → validation → call → qualification → logging
+End-to-end AI workflow automating lead capture, validation, calling, qualification, and logging
 <img width="1778" height="604" alt="image" src="https://github.com/user-attachments/assets/f494ea79-b343-472b-95b0-15fe9100e1c5" />
 
 
