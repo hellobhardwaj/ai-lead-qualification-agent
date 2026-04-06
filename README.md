@@ -93,8 +93,7 @@ Built an automated AI voice agent that instantly calls new leads, asks qualifyin
 
 ## 📸 Demo / Screenshots
 
-_Add your n8n workflow screenshot here_  
-_Add call flow diagram here_  
+<img width="1666" height="639" alt="image" src="https://github.com/user-attachments/assets/e90f1cdc-2a03-456a-bc47-59dd35de8f6e" />
 
 ---
 
