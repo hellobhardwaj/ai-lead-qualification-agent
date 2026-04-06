@@ -91,9 +91,11 @@ Built an automated AI voice agent that instantly calls new leads, asks qualifyin
 
 ---
 
-## 📸 Demo / Screenshots
+## 📸 Workflow
 
-<img width="1666" height="639" alt="image" src="https://github.com/user-attachments/assets/e90f1cdc-2a03-456a-bc47-59dd35de8f6e" />
+AI agent workflow handling lead capture → validation → call → qualification → logging
+<img width="1778" height="604" alt="image" src="https://github.com/user-attachments/assets/f494ea79-b343-472b-95b0-15fe9100e1c5" />
+
 
 ---
 
