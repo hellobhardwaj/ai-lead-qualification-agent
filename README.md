@@ -1,6 +1,3 @@
-# ai-lead-qualification-agent
-AI-powered voice agent that automatically calls and qualifies leads in real-time using n8n and Vapi.
-
 # 🚀 AI Outbound Lead Qualification Agent
 
 An AI-powered voice agent that automatically calls and qualifies leads immediately after form submission, reducing response time and improving sales efficiency.
