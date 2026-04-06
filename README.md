@@ -109,6 +109,8 @@ Structured lead data captured after call:
 
 <img width="1897" height="750" alt="image" src="https://github.com/user-attachments/assets/9e8a1cc4-8366-414e-bc76-2de70465d708" />
 
+This output enables sales teams to instantly identify high-intent leads and prioritize follow-ups effectively.
+
 ---
 
 ## ⚠️ Note
