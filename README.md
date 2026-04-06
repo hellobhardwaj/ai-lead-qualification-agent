@@ -99,6 +99,18 @@ End-to-end AI workflow automating lead capture, validation, calling, qualificati
 
 ---
 
+## 📊 Output Example
+
+Structured lead data captured after call:
+- Intent
+- Budget
+- Urgency
+- Qualification status
+
+<img width="1897" height="750" alt="image" src="https://github.com/user-attachments/assets/9e8a1cc4-8366-414e-bc76-2de70465d708" />
+
+---
+
 ## ⚠️ Note
 
 This project demonstrates system design and workflow implementation for AI-based lead qualification. API keys and sensitive data have been removed.
